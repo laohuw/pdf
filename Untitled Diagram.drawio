@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-04T04:31:15.585Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="pOhdSx6hkDWeWS75gSmH" version="14.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-29T21:22:42.195Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="c8R6ibRvqpb6nOxvh0yC" version="14.8.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1662" dy="3108" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="3108" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -129,7 +129,7 @@
         <mxCell id="3x9BZErU-FMyBv7qmrPY-1" value="CI Create Ticket" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="2305" y="-2245" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="3x9BZErU-FMyBv7qmrPY-2" value="Create Ticket" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="3x9BZErU-FMyBv7qmrPY-2" value="Create Ticket" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5;fontColor=#0000FF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="250" y="-2330" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3x9BZErU-FMyBv7qmrPY-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3x9BZErU-FMyBv7qmrPY-3" target="3x9BZErU-FMyBv7qmrPY-4" edge="1">
@@ -156,14 +156,14 @@
         <mxCell id="3x9BZErU-FMyBv7qmrPY-8" value="CreateSNTicket.OK?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="300" y="-1850" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="g5xgK9qxtkk_Hm0rpAI6-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3x9BZErU-FMyBv7qmrPY-10" target="g5xgK9qxtkk_Hm0rpAI6-0">
+        <mxCell id="g5xgK9qxtkk_Hm0rpAI6-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3x9BZErU-FMyBv7qmrPY-10" target="g5xgK9qxtkk_Hm0rpAI6-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3x9BZErU-FMyBv7qmrPY-10" value="SteelHeads.cs L1905:CreateSNTicket()" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="225" y="-1740" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3x9BZErU-FMyBv7qmrPY-14" value="CreateSNTciket Dialog" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="260" y="-1540" width="40" height="30" as="geometry" />
+        <mxCell id="3x9BZErU-FMyBv7qmrPY-14" value="CreateSNTciket Dialog" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5;fontColor=#0000CC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="260" y="-1550" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3x9BZErU-FMyBv7qmrPY-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3x9BZErU-FMyBv7qmrPY-15" target="3x9BZErU-FMyBv7qmrPY-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -186,8 +186,8 @@
         <mxCell id="3x9BZErU-FMyBv7qmrPY-20" value="setPriority" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="335" y="-1120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3x9BZErU-FMyBv7qmrPY-22" value="CI Create Ticket" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1220" y="-2330" width="190" height="20" as="geometry" />
+        <mxCell id="3x9BZErU-FMyBv7qmrPY-22" value="CI Create Ticket" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5;fontColor=#0000FF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1120" y="-2330" width="190" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3x9BZErU-FMyBv7qmrPY-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3x9BZErU-FMyBv7qmrPY-23" target="3x9BZErU-FMyBv7qmrPY-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -200,7 +200,7 @@
             <mxPoint x="1205" y="-1940" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3x9BZErU-FMyBv7qmrPY-24" value="&lt;br&gt;=&amp;gt;L835: handleCreateSNEI(){&lt;br&gt;if grn is null, grn=[&#39;default_grn&#39;]&lt;br&gt;profile=getDominionProfile(id, dominion, plane, rise_type,description,title, affected_item_grn, affected_aspect, time_ins, node, policy, nqa_id);&lt;br&gt;cnt&amp;gt;1 =&amp;gt;&amp;nbsp; [&#39;longDescription&#39;]= [&#39;longDescription&#39;]+ generated info.&lt;br&gt;cnt==1 =&amp;gt; [&#39;shortDescription&#39;]=&#39;Multi-alert: &quot;+ [&#39;shortDescription&#39;]&lt;br&gt;cnt==1 =&amp;gt; loadMetadata=true&lt;br&gt;&lt;br&gt;new ServiceNowEI(raptor, sh, currentUser, default_work_type, id, dominion, title, description,severity, grn, profile, loadmetadata)&lt;br&gt;}" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="3x9BZErU-FMyBv7qmrPY-24" value="&lt;br&gt;&lt;div&gt;&lt;span&gt;=&amp;gt;L835: handleCreateSNEI(){&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;if grn is null, grn=[&#39;default_grn&#39;];&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;profile=getDominionProfile(id, dominion, plane, rise_type,description,title, affected_item_grn, affected_aspect, time_ins, node, policy, nqa_id);&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;cnt&amp;gt;1 =&amp;gt;&amp;nbsp; [&#39;longDescription&#39;]= [&#39;longDescription&#39;]+ generated info.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;cnt==1 =&amp;gt; [&#39;shortDescription&#39;]=&#39;Multi-alert: &quot;+ [&#39;shortDescription&#39;]&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;cnt==1 =&amp;gt; loadMetadata=true&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;new ServiceNowEI(raptor, sh, currentUser, default_work_type, id, dominion, title, description,severity, grn, profile, loadmetadata)&lt;/span&gt;&lt;/div&gt;}" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="900" y="-2200" width="610" height="140" as="geometry" />
         </mxCell>
         <mxCell id="3x9BZErU-FMyBv7qmrPY-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3x9BZErU-FMyBv7qmrPY-28" target="3x9BZErU-FMyBv7qmrPY-29" edge="1">
@@ -209,43 +209,46 @@
         <mxCell id="3x9BZErU-FMyBv7qmrPY-28" value="ServiceNowEI.OK?" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1152.5" y="-2010" width="105" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="g5xgK9qxtkk_Hm0rpAI6-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3x9BZErU-FMyBv7qmrPY-29" target="g5xgK9qxtkk_Hm0rpAI6-2">
+        <mxCell id="g5xgK9qxtkk_Hm0rpAI6-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3x9BZErU-FMyBv7qmrPY-29" target="g5xgK9qxtkk_Hm0rpAI6-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3x9BZErU-FMyBv7qmrPY-29" value="profile[&#39;AdHocCIName&#39;]=AdHocCI&lt;br&gt;selectedDocLinks&lt;br&gt;kbNumber&lt;br&gt;profile[&#39;Userfield2&#39;]=dlg.AssignedGroup&lt;br&gt;CreateSNTicketEI(....)" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1050" y="-1900" width="310" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="3x9BZErU-FMyBv7qmrPY-31" value="ServiceNowEI Dialog" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1030" y="-1680" width="150" height="20" as="geometry" />
+        <mxCell id="3x9BZErU-FMyBv7qmrPY-31" value="ServiceNowEI Dialog" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5;fontColor=#0000FF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1090" y="-1640" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3x9BZErU-FMyBv7qmrPY-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3x9BZErU-FMyBv7qmrPY-32" target="3x9BZErU-FMyBv7qmrPY-37" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1215" y="-1470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3x9BZErU-FMyBv7qmrPY-32" value="&lt;span&gt;ServiceNowEI(raptor,sh, user,description,&lt;/span&gt;default_work_type&lt;span&gt;,id,dominion,title, ticketDescription, severity, fullgrn, profile,loadMetadata)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="850" y="-1600" width="730" height="40" as="geometry" />
+        <mxCell id="3x9BZErU-FMyBv7qmrPY-32" value="&lt;span&gt;ServiceNowEI(raptor,sh, user,description,&lt;/span&gt;default_work_type&lt;span&gt;,id,dominion,title, ticketDescription, severity, fullgrn, profile,loadMetadata)&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;comboEffortAssignGroup=profile[&#39;AssignmentGroup&#39;] (if not null)&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;editCI(AffectItem) = profile[&#39;AffectedCI&#39;] if not null, or fullGRN&lt;/div&gt;&lt;/span&gt;&lt;div style=&quot;text-align: left&quot;&gt;this.editCI.Text =&lt;span&gt;&amp;nbsp;profile[&#39;AdHocCIName&#39;] is not null, or&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;/div&gt;&lt;span&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&amp;nbsp;profile[&#39;AdHocCIName&#39;] =&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;this.editCI.Text&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;acturalSeverity=profile[&#39;ActualSeverity&#39;] if not null&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;priority=profile[&#39;Priority&#39;]&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;if (dominion is &quot;EUC-Remote-Computing&quot; or &quot;EUC-Mobile-Computing&quot;) set editAdHocCI readonly.&lt;/div&gt;&lt;/span&gt;&lt;span&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="850" y="-1600" width="730" height="160" as="geometry" />
         </mxCell>
         <mxCell id="3x9BZErU-FMyBv7qmrPY-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3x9BZErU-FMyBv7qmrPY-33" target="3x9BZErU-FMyBv7qmrPY-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3x9BZErU-FMyBv7qmrPY-33" value="&lt;span&gt;L200: RefreshUserList(assignedTo,group, true):{&lt;/span&gt;&lt;br&gt;&lt;span&gt;getSNOptions(groupName, dominion,affectedItem)&lt;/span&gt;&lt;br&gt;&lt;span&gt;editCI=grn,&lt;/span&gt;&lt;br&gt;&lt;span&gt;userList, (if currentUser in the list, set as default),&lt;/span&gt;&lt;br&gt;&lt;span&gt;*set symptoms, resolutions,effortTypes, reassignmentReasons, closeWithAssistance&lt;/span&gt;&lt;br&gt;&lt;span&gt;}&lt;/span&gt;&lt;br&gt;&lt;span&gt;RefreshUserList(effortAssignedTo,effortAssignGroup, false):{&lt;/span&gt;&lt;br&gt;&lt;span&gt;getSNOptions(groupName, dominion,affectedItem)&lt;/span&gt;&lt;br&gt;&lt;span&gt;editCI=grn,&lt;/span&gt;&lt;br&gt;&lt;span&gt;userList, (if currentUser in the list, set as default),&lt;br&gt;&lt;/span&gt;setDefault_ReAssign_CWA()&lt;br&gt;&lt;span&gt;}&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="860" y="-1380" width="710" height="240" as="geometry" />
+          <mxGeometry x="860" y="-1220" width="710" height="240" as="geometry" />
         </mxCell>
         <mxCell id="3x9BZErU-FMyBv7qmrPY-35" value="[&#39;AdHocCIName&#39;]=&lt;br&gt;[&#39;ActualSeverity&#39;]&lt;br&gt;setPriority" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1080" y="-1120" width="270" height="70" as="geometry" />
+          <mxGeometry x="1080" y="-960" width="270" height="70" as="geometry" />
         </mxCell>
         <mxCell id="3x9BZErU-FMyBv7qmrPY-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3x9BZErU-FMyBv7qmrPY-37" target="3x9BZErU-FMyBv7qmrPY-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3x9BZErU-FMyBv7qmrPY-37" value="L317: fillOptions(dominion):&lt;br&gt;assignmentGroupList&lt;br&gt;effortAssignGroup" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1030" y="-1500" width="370" height="65" as="geometry" />
+          <mxGeometry x="1030" y="-1340" width="370" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="g5xgK9qxtkk_Hm0rpAI6-0" value="RiseGrid.cs L1259 sh.CreateSNTicket()&lt;br&gt;=&amp;gt;SteelHead.cs L1905" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="g5xgK9qxtkk_Hm0rpAI6-0" value="RiseGrid.cs L1259 sh.CreateSNTicket()&lt;br&gt;=&amp;gt;SteelHead.cs L1905" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="225" y="-1650" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="g5xgK9qxtkk_Hm0rpAI6-2" value="RiseGrid.cs L1321 sh.CreateSNTicketEI()&lt;br&gt;=&amp;gt;SteelHead.cs L1976" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="g5xgK9qxtkk_Hm0rpAI6-2" value="RiseGrid.cs L1321 sh.CreateSNTicketEI()&lt;br&gt;=&amp;gt;SteelHead.cs L1976" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1065" y="-1760" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ANadIPRpGW0OdqHkefdz-0" value="CreateSNTicketEI(&lt;br&gt;&lt;div&gt;&lt;span&gt;&quot;type&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;dominion,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;actualSeverity,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;BriefDescription,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;Description,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;AssignedGroup,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&quot;contact&quot;,&amp;nbsp; &amp;lt;-&lt;font color=&quot;#990000&quot;&gt;contactName&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;AssignedTo,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;Priority,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;AffectedItem,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;SymptomCode,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;ResolutionCode,&lt;/div&gt;&lt;div&gt;ids,&lt;/div&gt;&lt;div&gt;dominions,&lt;/div&gt;&lt;div&gt;planes,&lt;/div&gt;&lt;div&gt;rise_types,&lt;/div&gt;&lt;div&gt;EffortAssignedTo,&lt;/div&gt;&lt;div&gt;TimeWorked,&lt;/div&gt;&lt;div&gt;EffortType,&lt;/div&gt;&lt;div&gt;EditCI, &amp;lt;-&lt;font color=&quot;#990000&quot;&gt;grn&lt;/font&gt;&lt;/div&gt;&lt;div&gt;WorkNotes,&lt;/div&gt;&lt;div&gt;SelectedDocLinks,&lt;/div&gt;&lt;div&gt;RestorationDescription,&lt;/div&gt;&lt;div&gt;null, &amp;lt;- &lt;font color=&quot;#994c00&quot;&gt;clearFilters&lt;/font&gt;&lt;/div&gt;&lt;div&gt;false, &amp;lt;- &lt;font color=&quot;#cc0000&quot;&gt;closeTicket&lt;/font&gt;&lt;/div&gt;&lt;div&gt;kbNumber,&lt;/div&gt;&lt;div&gt;EffortAssignedGroup,&lt;/div&gt;&lt;div&gt;ReassignmentReason,&lt;/div&gt;&lt;div&gt;CloseWithAssistance,&lt;/div&gt;&lt;div&gt;profile&lt;/div&gt;&lt;div&gt;&lt;span&gt;)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#0000FF;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1640" y="-1995" width="190" height="455" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
